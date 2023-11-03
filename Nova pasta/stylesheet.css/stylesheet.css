@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+\* começo da pagina *\
+
+.logo{
+  background-image:url("../img/empreendedorismo-inovacao.jpg");
+  background-size: 100% 100%;
+  background-position:100% 100%;
+  display: grid;
+  width: 100%;
+  height: 500px;
+  justify-content: center;
+  background-color: bisque;
+  }
+
+.angelica{
+  display: flex;
+  width:80px;
+  height: 130px;
+  justify-content: right;
+  background-color: azure;
+  border: 5px solid rgb(128, 247, 59); 
+}
+
+.angelicafoto{
+  display: flex;
+  width:80px;
+  height: 120px;
+}
+  .logo2 {
+    padding-top: 15px;
+    display: grid;
+    width: 145px;
+    height: 160px;
+   justify-content: right;
+  }
+   
+  .logo2foto{
+    display: flex;
+    width: 145px;
+    height: 130px;
+  }
